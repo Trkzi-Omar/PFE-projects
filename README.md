@@ -6,7 +6,7 @@ A repository to group reports and presentations of end of studies projects (_PFE
 2. Add your report and/or presentation if available.
 3. Create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 ### How is this repository structured
-Each school/university has a directory, under which depending on the framework[^1] used there is a list of reports and presentations.
+Each school/university has a directory, under which depending on the framework[^1] used there is a list of reports and presentations, named `report-{name of the project}` and `presentation-{name of the project}`.
 
 #### ⚠️ Before submitting any file, please make sure that it does not include any sensitive information about any of the parties involved (the students, the company, the school, ...).
 [^1]: if multiple frameworks are used, you can put the files under the main framework used
